@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="601" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
+http://{udpxy}:8888/rtp/225.1.101.138:11111
+#EXTINF:-1 tvg-id="602" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
+http://{udpxy}:8888/rtp/225.1.101.26:7523
+#EXTINF:-1 tvg-id="603" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
+http://{udpxy}:8888/rtp/225.1.101.121:7523
+#EXTINF:-1 tvg-id="604" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
+http://{udpxy}:8888/rtp/225.1.101.52:7523
+#EXTINF:-1 tvg-id="605" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
+http://{udpxy}:8888/rtp/225.1.101.187:7523
+#EXTINF:-1 tvg-id="619" tvg-name="CCTV5+" group-title="央视频道",CCTV-5+ 体育赛事
+http://{udpxy}:8888/rtp/225.1.101.124:7523
+#EXTINF:-1 tvg-id="606" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
+http://{udpxy}:8888/rtp/225.1.101.94:7523
+#EXTINF:-1 tvg-id="607" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
+http://{udpxy}:8888/rtp/225.1.101.27:7523
+#EXTINF:-1 tvg-id="608" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
+http://{udpxy}:8888/rtp/225.1.101.98:7523
+#EXTINF:-1 tvg-id="609" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
+http://{udpxy}:8888/rtp/225.1.101.28:7523
+#EXTINF:-1 tvg-id="610" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
+http://{udpxy}:8888/rtp/225.1.101.30:7523
+#EXTINF:-1 tvg-id="611" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
+http://{udpxy}:8888/rtp/225.1.101.100:7523
+#EXTINF:-1 tvg-id="612" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
+http://{udpxy}:8888/rtp/225.1.101.33:7523
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
+http://{udpxy}:8888/rtp/225.1.101.161:7523
+#EXTINF:-1 tvg-id="1601" tvg-name="CGTN英语" group-title="央视频道",CGTN英语
+http://{udpxy}:8888/rtp/225.1.101.3:7523
+#EXTINF:-1 tvg-id="1604" tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
+http://{udpxy}:8888/rtp/225.1.101.67:7523
+#EXTINF:-1 tvg-id="1603" tvg-name="CGTN法语" group-title="央视频道",CGTN法语
+http://{udpxy}:8888/rtp/225.1.101.165:7523
+#EXTINF:-1 tvg-id="16" tvg-name="CGTN西语" group-title="央视频道",CGTN西语
+http://{udpxy}:8888/rtp/225.1.101.93:7523
+#EXTINF:-1 tvg-id="651" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://{udpxy}:8888/rtp/225.1.101.151:7523
+#EXTINF:-1 tvg-id="37" tvg-name="东南卫视" group-title="卫视频道",东南卫视
+http://{udpxy}:8888/rtp/224.1.100.56:11111
+#EXTINF:-1 tvg-id="2333" tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
+http://{udpxy}:8888/rtp/225.1.101.173:7523
+#EXTINF:-1 tvg-id="634" tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://{udpxy}:8888/rtp/225.1.101.145:7523
+#EXTINF:-1 tvg-id="736" tvg-name="云南卫视" group-title="卫视频道",云南卫视
+http://{udpxy}:8888/rtp/225.1.101.204:7523
+#EXTINF:-1 tvg-id="621" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://{udpxy}:8888/rtp/225.1.101.150:7523
+#EXTINF:-1 tvg-id="620" tvg-name="纪实科教" group-title="卫视频道",纪实科教
+http://{udpxy}:8888/rtp/225.1.101.182:7523
+#EXTINF:-1 tvg-id="30" tvg-name="卡酷少儿" group-title="卫视频道",卡酷少儿
+http://{udpxy}:8888/rtp/225.1.101.149:7523
+#EXTINF:-1 tvg-id="52" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
+http://{udpxy}:8888/rtp/225.1.101.155:7523
+#EXTINF:-1 tvg-id="673" tvg-name="四川卫视" group-title="卫视频道",四川卫视
+http://{udpxy}:8888/rtp/225.1.101.29:7523
+#EXTINF:-1 tvg-id="657" tvg-name="天津卫视" group-title="卫视频道",天津卫视
+http://{udpxy}:8888/rtp/225.1.101.136:7523
+#EXTINF:-1 tvg-id="637" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
+http://{udpxy}:8888/rtp/225.1.101.57:7523
+#EXTINF:-1 tvg-id="653" tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://{udpxy}:8888/rtp/225.1.101.185:7523
+#EXTINF:-1 tvg-id="649" tvg-name="广西卫视" group-title="卫视频道",广西卫视
+http://{udpxy}:8888/rtp/225.1.101.21:7523
+#EXTINF:-1 tvg-id="632" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://{udpxy}:8888/rtp/225.1.101.153:7523
+#EXTINF:-1 tvg-id="647" tvg-name="江西卫视" group-title="卫视频道",江西卫视
+http://{udpxy}:8888/rtp/225.1.101.118:7523
+#EXTINF:-1 tvg-id="60" tvg-name="河北卫视" group-title="卫视频道",河北卫视
+http://{udpxy}:8888/rtp/225.1.101.127:7523
+#EXTINF:-1 tvg-id="650" tvg-name="河南卫视" group-title="卫视频道",河南卫视
+http://{udpxy}:8888/rtp/225.1.101.91:7523
+#EXTINF:-1 tvg-id="633" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://{udpxy}:8888/rtp/225.1.101.154:7523
+#EXTINF:-1 tvg-id="124" tvg-name="海南卫视" group-title="卫视频道",海南卫视
+http://{udpxy}:8888/rtp/225.1.101.4:7523
+#EXTINF:-1 tvg-id="665" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://{udpxy}:8888/rtp/225.1.101.144:7523
+#EXTINF:-1 tvg-id="654" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://{udpxy}:8888/rtp/225.1.101.112:7523
+#EXTINF:-1 tvg-id="631" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://{udpxy}:8888/rtp/225.1.101.199:7523
+#EXTINF:-1 tvg-id="123" tvg-name="金鹰卡通" group-title="卫视频道",金鹰卡通
+http://{udpxy}:8888/rtp/225.1.101.108:7523
+#EXTINF:-1 tvg-id="45" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
+http://{udpxy}:8888/rtp/225.1.101.58:7523
+#EXTINF:-1 tvg-id="638" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://{udpxy}:8888/rtp/225.1.101.146:7523
+#EXTINF:-1 tvg-id="642" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+http://{udpxy}:8888/rtp/225.1.101.105:7523
+#EXTINF:-1 tvg-id="735" tvg-name="青海卫视" group-title="卫视频道",青海卫视
+http://{udpxy}:8888/rtp/225.1.101.20:7523
+#EXTINF:-1 tvg-id="643" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://{udpxy}:8888/rtp/225.1.101.61:7523
+#EXTINF:-1 tvg-id="80" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
+http://{udpxy}:8888/rtp/225.1.101.107:7523
+#EXTINF:-1 tvg-id="62" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
+http://{udpxy}:8888/rtp/225.1.101.186:7523
+#EXTINF:-1 tvg-id="46" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
+http://{udpxy}:8888/rtp/225.1.101.169:7523
+#EXTINF:-1 tvg-id="661" tvg-name="山西卫视" group-title="卫视频道",山西卫视
+http://{udpxy}:8888/rtp/225.1.101.24:7523
+#EXTINF:-1 tvg-id="63" tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
+http://{udpxy}:8888/rtp/225.1.101.15:7523
+#EXTINF:-1 tvg-id="59" tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
+http://{udpxy}:8888/rtp/225.1.101.16:7523
+#EXTINF:-1 tvg-id="3017" tvg-name="翡翠台" group-title="TVB",翡翠台
+http://{udpxy}:8888/rtp/225.1.101.45:7523
+#EXTINF:-1 tvg-id="3019" tvg-name="明珠台" group-title="TVB",明珠台
+http://{udpxy}:8888/rtp/225.1.101.139:7523
+#EXTINF:-1 tvg-id="3021" tvg-name="澳视澳门" group-title="港澳频道",澳视澳门
+http://{udpxy}:8888/rtp/225.1.101.224:7523
+#EXTINF:-1 tvg-id="2021" tvg-name="凤凰中文" group-title="港澳频道",凤凰中文
+http://{udpxy}:8888/rtp/225.1.101.31:7523
+#EXTINF:-1 tvg-id="2035" tvg-name="大湾区卫视" group-title="广东频道",大湾区卫视
+http://{udpxy}:8888/rtp/225.1.101.62:7523
+#EXTINF:-1 tvg-id="671" tvg-name="广东体育" group-title="广东频道",广东体育
+http://{udpxy}:8888/rtp/225.1.101.102:7523
+#EXTINF:-1 tvg-id="87" tvg-name="嘉佳卡通" group-title="广东频道",嘉佳卡通
+http://{udpxy}:8888/rtp/225.1.101.129:7523
+#EXTINF:-1 tvg-id="2012" tvg-name="广东少儿" group-title="广东频道",广东少儿
+http://{udpxy}:8888/rtp/225.1.101.66:7523
+#EXTINF:-1 tvg-id="2037" tvg-name="广东影视" group-title="广东频道",广东影视
+http://{udpxy}:8888/rtp/225.1.101.64:7523
+#EXTINF:-1 tvg-id="2033" tvg-name="广东新闻" group-title="广东频道",广东新闻
+http://{udpxy}:8888/rtp/225.1.101.65:7523
+#EXTINF:-1 tvg-id="2032" tvg-name="广东民生" group-title="广东频道",广东民生
+http://{udpxy}:8888/rtp/225.1.101.49:7523
+#EXTINF:-1 tvg-id="231" tvg-name="广东珠江" group-title="广东频道",广东珠江
+http://{udpxy}:8888/rtp/225.1.101.106:7523
+#EXTINF:-1 tvg-id="22034" tvg-name="广东经济科教" group-title="广东频道",广东经济科教
+http://{udpxy}:8888/rtp/225.1.101.211:7523
+#EXTINF:-1 tvg-id="2029" tvg-name="岭南戏曲" group-title="广东频道",岭南戏曲
+http://{udpxy}:8888/rtp/225.1.101.119:7523
+#EXTINF:-1 tvg-id="62001" tvg-name="广州新闻" group-title="广东频道",广州新闻
+http://{udpxy}:8888/rtp/225.1.101.159:7523
+#EXTINF:-1 tvg-id="2043" tvg-name="CHC动作电影" group-title="数字频道",CHC动作电影
+http://{udpxy}:8888/rtp/225.1.101.189:7523
+#EXTINF:-1 tvg-id="2042" tvg-name="CHC家庭影院" group-title="数字频道",CHC家庭影院
+http://{udpxy}:8888/rtp/225.1.101.192:7523
+#EXTINF:-1 tvg-id="617" tvg-name="CHC影迷电影" group-title="数字频道",CHC影迷电影
+http://{udpxy}:8888/rtp/225.1.101.195:7523
+#EXTINF:-1 tvg-id="255" tvg-name="重温经典" group-title="数字频道",重温经典
+http://{udpxy}:8888/rtp/225.1.101.53:7523
+#EXTINF:-1 tvg-id="162" tvg-name="都市剧场" group-title="数字频道",都市剧场
+http://{udpxy}:8888/rtp/225.1.101.123:7523
+#EXTINF:-1 tvg-id="143" tvg-name="动漫秀场" group-title="数字频道",动漫秀场
+http://{udpxy}:8888/rtp/225.1.101.116:7523
+#EXTINF:-1 tvg-id="141" tvg-name="劲爆体育" group-title="数字频道",劲爆体育
+http://{udpxy}:8888/rtp/225.1.101.114:7523
+#EXTINF:-1 tvg-id="79" tvg-name="生活时尚" group-title="数字频道",生活时尚
+http://{udpxy}:8888/rtp/225.1.101.122:7523
+#EXTINF:-1 tvg-id="76" tvg-name="东方财经" group-title="数字频道",东方财经
+http://{udpxy}:8888/rtp/225.1.101.92:7523
+#EXTINF:-1 tvg-id="145" tvg-name="法治天地" group-title="数字频道",法治天地
+http://{udpxy}:8888/rtp/225.1.101.176:7523
+#EXTINF:-1 tvg-id="147" tvg-name="金色学堂" group-title="数字频道",金色学堂
+http://{udpxy}:8888/rtp/225.1.101.137:7523
+#EXTINF:-1 tvg-id="142" tvg-name="游戏风云" group-title="数字频道",游戏风云
+http://{udpxy}:8888/rtp/225.1.101.196:7523
+#EXTINF:-1 tvg-id="1665" tvg-name="深圳卫视4K" group-title="4K频道",深圳卫视 4K
+http://{udpxy}:8888/rtp/225.1.101.35:7523
+#EXTINF:-1 tvg-id="1651" tvg-name="广东卫视4K" group-title="4K频道",广东卫视 4K
+http://{udpxy}:8888/rtp/225.1.101.86:7523
+#EXTINF:-1 tvg-id="1621" tvg-name="北京卫视4K" group-title="4K频道",北京卫视 4K
+http://{udpxy}:8888/rtp/225.1.101.72:7523
+#EXTINF:-1 tvg-id="1632" tvg-name="江苏卫视4K" group-title="4K频道",江苏卫视 4K
+http://{udpxy}:8888/rtp/225.1.1.7:7523
+#EXTINF:-1 tvg-id="1653" tvg-name="山东卫视4K" group-title="4K频道",山东卫视 4K
+http://{udpxy}:8888/rtp/225.1.1.8:7523
+#EXTINF:-1 tvg-id="1633" tvg-name="浙江卫视4K" group-title="4K频道",浙江卫视 4K
+http://{udpxy}:8888/rtp/225.1.1.9:7523
+#EXTINF:-1 tvg-id="1673" tvg-name="四川卫视4K" group-title="4K频道",四川卫视 4K
+http://{udpxy}:8888/rtp/225.1.1.10:7523
+#EXTINF:-1 tvg-id="1634" tvg-name="东方卫视4K" group-title="4K频道",东方卫视 4K
+http://{udpxy}:8888/rtp/225.1.1.11:7523
+#EXTINF:-1 tvg-id="1631" tvg-name="湖南卫视4K" group-title="4K频道",湖南卫视 4K
+http://{udpxy}:8888/rtp/225.1.1.12:7523
+#EXTINF:-1 tvg-id="4401" tvg-name="南方购物" group-title="购物频道",南方购物
+http://{udpxy}:8888/rtp/225.1.101.201:7523
+#EXTINF:-1 tvg-id="69" tvg-name="央广购物" group-title="购物频道",央广购物
+http://{udpxy}:8888/rtp/225.1.101.17:7523
+#EXTINF:-1 tvg-id="72" tvg-name="聚鲨环球精选" group-title="购物频道",聚鲨环球精选
+http://{udpxy}:8888/rtp/225.1.101.172:7523
+#EXTINF:-1 tvg-id="70" tvg-name="优购物" group-title="购物频道",优购物
+http://{udpxy}:8888/rtp/225.1.101.23:7523
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
+http://{udpxy}:8888/rtp/225.1.101.125:7523
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
+http://{udpxy}:8888/rtp/225.1.101.34:7523
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
+http://{udpxy}:8888/rtp/225.1.101.160:7523
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV-16 奥林匹克
+http://{udpxy}:8888/rtp/225.1.101.133:7523
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" group-title="央视频道",CGTN阿语
+http://{udpxy}:8888/rtp/225.1.101.148:7523
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV-1教育" group-title="央视频道",CETV-1 教育
+http://{udpxy}:8888/rtp/225.1.101.84:7523
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="卫视频道",优漫卡通
+http://{udpxy}:8888/rtp/224.1.100.119:11111
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" group-title="卫视频道",星空卫视
+http://{udpxy}:8888/rtp/224.1.100.13:11111
+#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" group-title="港澳频道",澳亚卫视
+http://{udpxy}:8888/rtp/224.1.100.12:11111
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="广东频道",广州综合
+http://{udpxy}:8888/rtp/225.1.101.158:7523
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" group-title="广东频道",广州法治
+http://{udpxy}:8888/rtp/224.1.100.17:11111
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" group-title="数字频道",乐游
+http://{udpxy}:8888/rtp/225.1.101.197:7523
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" group-title="数字频道",新视觉
+http://{udpxy}:8888/rtp/225.1.101.162:7523
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="数字频道",欢笑剧场
+http://{udpxy}:8888/rtp/225.1.101.113:7523
+#EXTINF:-1 tvg-id="people铁道视频" tvg-name="people铁道视频" group-title="数字频道",people铁道视频
+http://{udpxy}:8888/rtp/225.1.101.156:7523
+#EXTINF:-1 tvg-id="广铁电视" tvg-name="广铁电视" group-title="数字频道",广铁电视
+http://{udpxy}:8888/rtp/225.1.101.147:7523
+#EXTINF:-1 tvg-id="央广购物(备)" tvg-name="央广购物(备)" group-title="购物频道",央广购物(备)
+http://{udpxy}:8888/rtp/225.1.101.178:7523
+#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" group-title="购物频道",快乐购
+http://{udpxy}:8888/rtp/225.1.101.70:7523
