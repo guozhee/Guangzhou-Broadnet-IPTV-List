@@ -108,3 +108,9 @@ http://<路由IP>:8888/rtp/225.1.101.138:11111
 | **不可以** | 商业使用，包括打包出售、付费服务等 |
 
 完整条款见 [LICENSE](LICENSE)。
+
+```
+SPDX-License-Identifier: CC-BY-NC-4.0
+```
+
+> 注：GitHub 侧边栏可能显示 "Other"，因为它的许可证识别器不覆盖 CC 的 NC 变体。以 LICENSE 文件全文为准。
