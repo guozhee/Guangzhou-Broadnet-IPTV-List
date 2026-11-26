@@ -1,4 +1,4 @@
-# 广州广电珠江宽频 IPTV 组播地址
+# 广东广电广州广电珠江宽频 IPTV 组播地址
 
 Guangzhou Broadnet (ZhuJiang Kuandai) IPTV Multicast Channel List
 
